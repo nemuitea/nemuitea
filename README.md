@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nemuitea
+- 👀 my nickname means I am nemui (sleepy) and need tea to exist 
+- 🌱 I’m currently learning CS50x
+- ✨ Fun fact: ...
